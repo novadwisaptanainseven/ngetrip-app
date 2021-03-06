@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50700189573",
+    "project_id": "ngetrip-1ad77",
+    "storage_bucket": "ngetrip-1ad77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50700189573:android:afd2abf6535e8817398eec",
+        "android_client_info": {
+          "package_name": "com.novadwisapta.ngetrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50700189573-g9uth2idg7fgd7kr3nojc2qdl07q0689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71CzkkUp166ZWeLPrYTRgQX5Qdf9MbgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50700189573-g9uth2idg7fgd7kr3nojc2qdl07q0689.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

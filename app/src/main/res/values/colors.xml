@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btnSignUp">#00bcd4</color>
+    <color name="btnSignActive">#b2ebf2</color>
+
+    <color name="blueLight">#6b76ff</color>
+    <color name="blue">#008891</color>
+    <color name="bGreen">#0f3057</color>
+    <color name="pur">#da9ff9</color>
+    <color name="purple">#b088f9</color>
+    <color name="white">#f1f6f9</color>
+    <color name="orange">#f9813a</color>
+    <color name="yellow">#FFD334</color>
+    <color name="cream">#ffd5cd</color>
+    <color name="black">#99000000</color>
+
+    <color name="colorPrimaryDark_blue">#203DD1</color>
+    <color name="colorSecondary_blue">#2596f7</color>
+    <color name="colorGreyPrimary">#8D8D8D</color>
+    <color name="colorBlackPrimary">#21272C</color>
+    <color name="bgPrimary">#EDF1F8</color>
+    <color name="greenPrimary">#1abc9c</color>
+
+    <color name="blackPrimary">#21272C</color>
+    <color name="grayPrimary">#8D8D8D</color>
+    <color name="my_btn_color1">#0B3B49</color>
+    <color name="bluePrimary">#203DD1</color>
+    <color name="oldPink">#91052C</color>
+    <color name="pink">#DF0F50</color>
+    <color name="lavender">#bc6ff1</color>
+    <color name="darkPurple">#52057b</color>
+    <color name="colorRating">#FBC02D</color>
+
+</resources>

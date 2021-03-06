@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Beranda"
+        android:id="@+id/nav_beranda"
+      android:icon="@drawable/ic_home_run"/>
+    <item android:title="Wishlist"
+        android:id="@+id/nav_wishlist"
+        android:icon="@drawable/ic_favorite"/>
+    <item android:title="Agent Travel"
+        android:id="@+id/nav_agent_travel"
+        android:icon="@drawable/ic_baseline_card_travel_24"/>
+    <item android:title="About"
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_user"/>
+</menu>
